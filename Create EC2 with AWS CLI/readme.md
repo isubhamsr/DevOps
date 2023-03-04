@@ -1,4 +1,23 @@
 
+# Add Access Key
+
+First you need to add the access key in your local pc.
+
+login into AWS console > Security Credentials > Access Key
+
+It will create Access Id and Secret Access Key
+
+
+
+Install my-project with npm
+
+```bash
+  aws configure
+```
+
+by this comand add your Access Key and Secret Access Key and make output as JSON
+
+
 ## Steps
 
 Create Key Pair
